@@ -1,3 +1,8 @@
+> [!CAUTION]
+> Archieved! Patching FE is easier than ever with 07/02/2025 `New Method` Update. So I believe maintaining this repo is no longer needed. You can either tend to [official documentation](https://github.com/msojocs/fiddler-everywhere-enhance/README.md) or try [automated patching](https://github.com/sipsuru/fiddler-everywhere-patch-automated)
+
+---
+
 # Fiddler Everywhere Patch (Manual)
 Guides you to Patch Fiddler Everywhere on Windows Manually. 
 > Parent Repo: https://github.com/msojocs/fiddler-everywhere-enhance
